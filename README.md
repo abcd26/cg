@@ -16,3 +16,8 @@ sh.cpp
 transformation_arr.cpp
 transformation_vec.cpp
 triangle.py
+addnoise.py
+threshold.py
+histogram.py
+complement.py
+dda.cpp
